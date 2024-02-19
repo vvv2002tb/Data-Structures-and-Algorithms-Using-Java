@@ -23,8 +23,6 @@ package _3_Sort_Algorithms.BubbleSort;
 
     -Thuật toán này là thuật toàn tại chỗ vì chúng ta không cần tạo 1
     mảng khác.
-
-
  */
 
 import java.util.Arrays;
@@ -40,7 +38,6 @@ public class Main {
                 }
             }
         }
-
         System.out.println(Arrays.toString(intArray));
     }
 
