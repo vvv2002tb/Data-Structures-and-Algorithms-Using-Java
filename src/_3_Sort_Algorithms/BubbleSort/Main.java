@@ -39,17 +39,9 @@ public class Main {
                     swap(intArray, i, i + 1);
                 }
             }
-
         }
 
         System.out.println(Arrays.toString(intArray));
-
-
-
-
-
-
-
     }
 
     private static void swap(int[] array, int i, int j) {
