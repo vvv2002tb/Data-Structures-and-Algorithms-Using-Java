@@ -3,7 +3,7 @@ package _3_Sort_Algorithms.BubbleSort;
 // Thuật toán sắp xếp nổi bọt
 // Hiệu suất của thuật toán này sẽ giảm nhanh chóng khi số mục (n) cần sắp xêp tăng lên.
 // Thuật toán na có độ phức tạp O(n^2). (2 vòng loop). Có nghĩa là mất 100 bước để sắp xếp 10 mục (Chậm)
-
+// Thuật toán sắp xếp nổi bọt là loại sắp xếp ổn định
 /*
     Cách hoạt động:
     -Cho 1 mảng: 20, 35, -15, 7, 55, 1, -22 (length = 7).
